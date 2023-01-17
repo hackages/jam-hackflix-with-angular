@@ -1,7 +1,7 @@
 # Hackflix with Angular and NestJS
 
 ## Setup
-[Clone this repository](https://github.com/hackages/hackflix-angular)
+[Clone this repository](https://github.com/hackages/jam-hackflix-with-angular.git)
  - Install all dependencies with `npm i`
  - Start the project with `npm start` or `yarn start`
  - The app is available on `http://localhost:4200`
